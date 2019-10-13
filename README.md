@@ -5,4 +5,4 @@ It's a simple concise and lightweight cross-platform ssh client writed by golang
 go build
 
 # EXECUTABLE FILE
-[windows](www.baidu.com)
+[windows](https://github.com/381162797/pureSSH/releases)  [linux]()  [mac]()
